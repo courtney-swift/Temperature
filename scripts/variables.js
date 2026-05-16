@@ -57,4 +57,11 @@ let area = num3 * num4
 
 console.log(`${num3} * ${num4} = ${area}`);
 
+// challenge : area of a circle
+let pi=3.1416;
+let r=3;
+let a = pi*r*r;
+
+console.log(`The area of a circle with a radius of ${r} is the ${a}`);
+
 
