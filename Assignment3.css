@@ -1,0 +1,15 @@
+/*Main Body*/
+
+body{
+    background-color: beige;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+section{
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
